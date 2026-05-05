@@ -24,6 +24,12 @@ for (let i = 0; i < frugter.length; i++) {
 
 ## Eksempel på en navigation med 3 links i HTML
 ```
-
+<nav>
+  <ul>
+    <li><a href="index.html">Forside</a></li>
+    <li><a href="om-os.html">Om os</a></li>
+    <li><a href="kontakt.html">Kontakt</a></li>
+  </ul>
+</nav>
 ```
 
