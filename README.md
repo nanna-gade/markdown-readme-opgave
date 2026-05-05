@@ -15,5 +15,15 @@
 
 ## Eksempel på et array i JavaScript
 ```
-const eksempelListe = [ting-1, ting-2, ting-3]
+const frugter = ["Æble", "Banan", "Appelsin"];
+
+for (let i = 0; i < frugter.length; i++) {
+  console.log(frugter[i]);
+}
 ```
+
+## Eksempel på en navigation med 3 links i HTML
+```
+
+```
+
