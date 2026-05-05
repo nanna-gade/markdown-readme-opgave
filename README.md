@@ -34,6 +34,6 @@ for (let i = 0; i < frugter.length; i++) {
 ```
 
 ## Banan
-![Dette er en banan.](/Users/nannagade/Downloads/Banan.jpg "Dette er en banan.")
+![Dette er en banan.](Banan.jpg "Dette er en banan.")
 
 
