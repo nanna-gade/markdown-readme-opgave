@@ -33,3 +33,7 @@ for (let i = 0; i < frugter.length; i++) {
 </nav>
 ```
 
+## Banan
+![Dette er en banan.](/Users/nannagade/Downloads/Banan.jpg "Dette er en banan.")
+
+
