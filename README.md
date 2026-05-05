@@ -40,3 +40,5 @@ for (let i = 0; i < frugter.length; i++) {
 > “Alle er genier, men hvis man dømmer en fisk ud fra dens evne til at klatre i træer, vil den hele sit liv tro at den er dum”.
 >
 >> **Kilde:** Albert Einstein
+
+**Kilde:** [Quote - Albert Einstein](https://www.quote.dk/albert-einstein-citater/).
